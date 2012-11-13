@@ -1,5 +1,5 @@
 import java.util.*;
-
+// Hej Simon / rami
 public class Shield{
   private String type;
   private int protection;
